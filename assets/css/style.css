@@ -601,3 +601,54 @@ a {
 .control-next-icon {
     rotate: 180deg;
 }
+
+/* =============== INSTALL APP  ===============*/
+.install {
+    padding: 85px 0;
+}
+
+.install-core {
+    padding: 0 70px;
+    background: var(--secondary-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.install-content {
+    max-width: 57%;
+}
+
+.install-media {
+    display: block;
+}
+
+.install-ig {
+    display: block;
+    max-width: 284px;
+    max-height: 522px;
+    margin-top: -95px;
+    object-fit: cover;
+}
+
+.install-content-heading.heading {
+    max-width: 84%;
+    color: #fff;
+}
+
+.install-content-sub {
+    margin-top: 18px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.67;
+}
+
+.store-icon-install {
+    display: flex;
+    margin-top: 38px;
+    gap: 28px;
+}
+
+/* =============== NEWS  ===============*/
